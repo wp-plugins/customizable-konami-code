@@ -1,19 +1,19 @@
 === Plugin Name ===
 Contributors: GraveHeart
 Donate link: http://www.guravehaato.info/blog/tenha-o-konami-code-no-seu-blog
-Tags: header
+Tags: header, konami
 Requires at least: 2.0.2
 Tested up to: 2.7
-Stable tag: 0.9
+Stable tag: 1.0
 
-Insere o Konami Code no seu blog
+Inserts the Konami Code on your blog
 
 == Description ==
 
-Insere o Konami Code no seu blog, permitindo customizar a mensagem e o efeito do código.
+Inserts the Konami Code on your blog. You can customize the message, the effect and even the code! 
+
+Plugin only in pt_BR, soon I will transtale it. But you can use this version. :)
 
 == Installation ==
 
-Baixe o arquivo, descompacte-o, e suba via FTP para a pasta plugins do seu blog. Ative-o no painel de plugins. Na área de Configurações (ou Settings) você verá que há uma nova opção: Konami Code. Aí, é só colocar a sua mensagem personalizada lá. 
-
-Em breve, descrevo melhor o passo-a-passo da instalação. 
+Upload the folder to your plugins folder, and activate it. In Settings > Konami Code, you can set your plugin to show messages and load another pages. :)
